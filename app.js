@@ -6,7 +6,7 @@ const contract = require('truffle-contract');
 const Web3 = require('web3');
 
 let assetid = '';
-let asset= 'BDBT Token 100';
+let asset= 'BDBT Token';
 const nTokens = 1000;
 let tokensLeft = 0;
 const decimals = 2;
